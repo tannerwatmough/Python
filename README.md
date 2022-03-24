@@ -1,2 +1,2 @@
 # Python-Projects
-Various python projects!
+Various python projects to learn to program!
