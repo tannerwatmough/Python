@@ -25,7 +25,7 @@ async def nine_nine(ctx):
         "Bingpot!",
         (
             'Cool. Cool cool cool cool cool cool cool, '
-            'no dount no doubt no doubt no doubt.'
+            'no doubt no doubt no doubt no doubt.'
         ),
     ]
 
